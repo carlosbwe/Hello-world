@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="es-US" srclang="es-US" creationdate="20170313T161121Z" creationid="CARLOSREBORN\Carlos">
+    <prop type="x-Quality:Integer"></prop>
+    <prop type="x-SourceFile:SingleString"></prop>
+    <prop type="x-TargetFile:SingleString"></prop>
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">GitTranslating</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+  </header>
+  <body />
+</tmx>
